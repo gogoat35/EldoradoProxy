@@ -1,7 +1,7 @@
 {
-  "name": "NebulaWEB",
+  "name": "Eldorado",
   "description": "Explore the web. Freely. ",
-  "repository": "https://github.com/NebulaServices/Nebula",
-  "logo": "https://avatars.githubusercontent.com/u/86420004?v=4",
-  "keywords": ["educational", "science", "math"]
+  "repository": "https://github.com/gogoat35/EldoradoProxy/",
+  "logo": "https://cdn.discordapp.com/attachments/1160050072873095219/1189291104034623651/eldorado.png?ex=659da0a7&is=658b2ba7&hm=64b1f673f17e0e3796ccea90f381b421034404da638bc886348ff02fab6ccf99&",
+  "keywords": ["educational", "science", "math", "proxy"]
 }
